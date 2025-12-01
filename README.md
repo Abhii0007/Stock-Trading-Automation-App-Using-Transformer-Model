@@ -22,15 +22,25 @@ Stock-Trading-Automation-App-Using-Transformer-Model is a desktop-based trading 
 This project demonstrates end-to-end implementation of data ingestion → ML prediction → decision support → trading interface, making it ideal for quant developers, AI researchers, algorithmic traders, and financial engineers.
 
 ✨ Key Features
+
 Feature	Description
+
 📊 Interactive Trading Dashboard	Built using PyQt6 + Lightweight Charts
+
 🤖 AI Prediction Engine (Transformer)	Predicts stock price movement or return
+
 ⚙️ Automated Trading Signals	Generates Buy/Sell recommendations
+
 📈 Real-time Chart Rendering	Candlestick + Volume chart with zoom/pan
+
 🔔 Custom Price Alerts	Price, Volume, and News-based triggers
+
 🔍 Risk & Performance Metrics	Win Rate %, P&L tracking, Risk Exposure
+
 💾 Local Data Storage	Model logs, chart configurations, history
+
 🧩 Modular ML Pipeline	Easy to switch between models (LSTM/GRU/Transformer)
+
 🔐 Supports API Integration	Ready to integrate with broker SDKs
 
 
