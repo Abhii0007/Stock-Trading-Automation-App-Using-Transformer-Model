@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-
-################################################################################
-## Form generated from reading UI file 'form1caKSwP.ui'
-##
-## Created by: Qt User Interface Compiler version 6.10.1
-##
-## WARNING! All changes made in this file will be lost when recompiling UI file!
-################################################################################
-
 from PyQt6.QtCore import (QCoreApplication, QDate, QDateTime, QLocale,
     QMetaObject, QObject, QPoint, QRect,
     QSize, QTime, QUrl, Qt)
@@ -1947,4 +1937,5 @@ class Ui_MainWindow(object):
         self.menuDatabse.setTitle(QCoreApplication.translate("MainWindow", u"orders", None))
         self.menuabout.setTitle(QCoreApplication.translate("MainWindow", u"about", None))
     # retranslateUi
+
 
