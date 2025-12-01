@@ -6,4 +6,4 @@ Stock-Trading-Automation-App-Using-Transformer-Model is a comprehensive, Python-
 
 Project Snapshot:
 
-![home](images/Home_window.jpg)
+![home](Images/Home_window.jpg)
